@@ -2,7 +2,7 @@
 
 ## PyCitySchools
 
-* Has folder Resource, a Jupyter notebbok - PyCitySchools.ipynb
+* Has folder Resource, a Jupyter notebbok - PyCitySchools.ipynb and a  README.md file
 
 * Started off with PyCitySchools_starter.ipynb provided and renamed it to PyCitySchools.ipynb 
 
